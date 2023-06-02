@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "encoding-japanese": "^2.0.0",
+    "express": "^4.18.2",
+    "three": "^0.153.0"
+  }
+}
